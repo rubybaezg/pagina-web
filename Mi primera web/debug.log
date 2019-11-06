@@ -1,0 +1,3 @@
+[0613/092814.230:ERROR:process_memory_win.cc(73)] ReadMemory at 0x573b21a8 of 12 bytes failed: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0613/092814.768:WARNING:process_snapshot_win.cc(71)] ReadMemory ExceptionInformation failed
+[0613/092814.768:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
